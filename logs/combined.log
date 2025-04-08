@@ -1,0 +1,6 @@
+{"level":"info","message":"Server is running on port 3000","service":"calculator-microservice"}
+{"level":"info","message":"Exponentiation operation: 2 ^ 3 = 8","service":"calculator-microservice"}
+{"level":"info","message":"Square root operation: sqrt(16) = 4","service":"calculator-microservice"}
+{"level":"info","message":"Modulo operation: 10 % 3 = 1","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input: Both numbers must be valid numeric values.","service":"calculator-microservice"}
+{"level":"error","message":"Cannot calculate square root of a negative number.","service":"calculator-microservice"}

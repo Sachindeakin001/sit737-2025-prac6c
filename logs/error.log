@@ -1,0 +1,2 @@
+{"level":"error","message":"Invalid input: Both numbers must be valid numeric values.","service":"calculator-microservice"}
+{"level":"error","message":"Cannot calculate square root of a negative number.","service":"calculator-microservice"}
